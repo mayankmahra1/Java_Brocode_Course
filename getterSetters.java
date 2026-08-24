@@ -71,6 +71,7 @@ public class getterSetters {
         System.out.println(voiture1.getModel() + " " + voiture1.getColour() + " " + voiture1.getPrice());
 
 
+        // depending on your objects attrivutes you may want some to be readbale, some to be writeable or both 
 
         
 
