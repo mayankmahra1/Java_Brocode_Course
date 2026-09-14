@@ -78,7 +78,7 @@ public class readFile {
             System.out.println("Could not locate");
         }
         catch(IOException e){
-            System.out.println("Something went wring");
+            System.out.println("Something went wrong");
         }
 
     }
