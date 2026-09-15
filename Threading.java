@@ -84,7 +84,8 @@ public class Threading {
         // you see how times up isnt printed now. Thats because the thread ended as soon as our main thread ended
         // but if you dont type in anything it will continue to run until u enter a name
         // so if u want your programme to exit go to the MyRunnable class
-        // now if you dont type a name and the 5 seconds are up the thread closes. 
+        // now if you dont type a name and the 5 seconds are up the all threads close. 
+        
 
         System.out.println("You have 5 seconds to enter your name");
         System.out.print("Enter your name ");
